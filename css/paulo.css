@@ -1,0 +1,10 @@
+.background-paulo {
+    background-image: url(../img/Ben_10_reboot_logo.png);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.img-fluid {
+    height: 150px;
+}
