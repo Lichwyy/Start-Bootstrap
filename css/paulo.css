@@ -1,10 +1,17 @@
 .background-paulo {
-    background-image: url(../img/Ben_10_reboot_logo.png);
+    background-image: url(../img/outrogato.jpg);
     background-size: cover;
     background-position: center;
     height: 100vh;
 }
 
-.img-fluid {
-    height: 150px;
+#whatsapp {
+    font-size: 5vh;
+    transition: 0.3s;
+}
+
+#whatsapp:hover {
+    font-size: 5vh;
+    transition: 0.3s;
+    color: #00ff00;
 }
